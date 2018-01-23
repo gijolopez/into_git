@@ -1,3 +1,3 @@
-This is a test file
+# This is a test file
 
-Adding things to commit
+## Adding things to commit
